@@ -5,7 +5,8 @@ BEAM, in collaboration with the **Astrophysics, Astronomy & Mechanics** sector o
 # ASTRO
 **ASTRO** - Aristotle Student Telescope for Radio astronomy Observations is the latest BEAM's project and its target is to construct a radio telescope in Thessaloniki, Greece. Utilizing national and international collaborations of our professors we have the support and guidance of astronomers and engineers with extensive experience in the construction of radio telescopes. The main purpose of the project is to strengthen the educational and research facilities of the AUTh, but also the flourishing of the field of astronomy and more specifically radio astronomy in Greece.
 
-![astrologo](https://user-images.githubusercontent.com/80003772/210601975-85ff3419-1c5a-4377-a0ab-588b3162a5d3.png | width=200)
+<img data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/80003772/210601975-85ff3419-1c5a-4377-a0ab-588b3162a5d3.png)" width="200"/>
+
 
 Project ASTRO is splitted into five subsystems, in temrs of people working on the project:
 - Science
