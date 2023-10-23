@@ -7,7 +7,7 @@ BEAM, in collaboration with the **Astrophysics, Astronomy & Mechanics** sector o
 
 <img src="https://user-images.githubusercontent.com/80003772/210603427-5a76ade4-ab13-4674-a3b8-ac46099be2e0.png" width=25% height=25%>
 
-Project ASTRO is splitted into five subsystems, in temrs of people working on the project:
+Project ASTRO is splitted into five subsystems, in teams of people working on the project:
 - Science
 - Software
 - Electrical
